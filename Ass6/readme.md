@@ -143,7 +143,7 @@ CTC: 93000.0
 
 ##  Author
 
-Akshita Mishra**
+Akshita Mishra
 
 ---
 
