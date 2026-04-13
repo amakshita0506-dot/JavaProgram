@@ -41,7 +41,6 @@ java StudentsCSVCRUD
 ---
 
 ## Output
-
 Student Added: Karan
 Student Added: Meera
 Student Added: Rohit
@@ -53,7 +52,10 @@ Marks updated for studentId: 103
 
 After Updating Marks:
 (updated records displayed)
+
 Student deleted with ID: 102
+
+
 ---
 
 ## Concept Used
