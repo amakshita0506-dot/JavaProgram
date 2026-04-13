@@ -53,7 +53,6 @@ Marks updated for studentId: 103
 
 After Updating Marks:
 (updated records displayed)
-
 Student deleted with ID: 102
 ---
 
